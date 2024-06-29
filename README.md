@@ -19,9 +19,10 @@ Hello and welcome to my GitHub! My name is Mike and I'm excited to share with yo
 ## *About Me*
 **Experience:** I have almost 2 years of experience in the field of IT.</p>
 **Certifications:** </br>
+- GitHub Foundations
 - Cisco CCNA 200-301
 - Cisco CCNP Enterprise Core 350-401
-- NSE 4 Fortigate Firewall Administrator
+- Fortinet Certified Professionnal Public Cloud Security
 - AZ-104 Azure Administrator Associate
 - AZ-700 Azure Network Engineer Associate
 - Nokia Network Routing Specialist I and II </p>
