@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 Hello and welcome to my GitHub! My name is Mike and I'm excited to share with you a bit about myself, my journey in the world of IT, and what I'm currently learning and working on.
 
 ## *About Me*
-**Experience:** I have almost 2 years of experience in the field of IT.</p>
+**Experience:** I have 2 years of experience in IT administering computer and network systems.</p>
 **Certifications:** </br>
 - GitHub Foundations
 - Cisco CCNA 200-301
