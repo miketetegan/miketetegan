@@ -20,10 +20,12 @@ Hello and welcome to my GitHub! My name is Mike and I'm excited to share with yo
 **Experience:** I have 2 years of experience in IT administering computer and network systems.</p>
 **Certifications:** </br>
 - GitHub Foundations
+- Certified Kubernetes and Cloud Native Associate
 - Cisco CCNA 200-301
 - Cisco CCNP Enterprise Core 350-401
 - Fortinet Certified Professionnal Public Cloud Security
 - AZ-104 Azure Administrator Associate
+- AZ-500 Azure Security Engineer Associate
 - AZ-700 Azure Network Engineer Associate
 - Nokia Network Routing Specialist I and II </p>
 
