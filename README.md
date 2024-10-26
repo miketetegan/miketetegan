@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miketetegan/) [![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white&style=for-the-badge
-)](https://x.com/miketetegan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miketetegan/) [![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/miketetegan) 
 
 
 # 💻 Tech Stack: 
