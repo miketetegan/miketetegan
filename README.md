@@ -10,7 +10,8 @@
 miketetegan/miketetegan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://as2.ftcdn.net/v2/jpg/05/19/92/91/1000_F_519929167_t4xSYAm3UnOB9xl64kNFqfjM2wGhoLVs.jpg" width="900" height="200" />
+<img src="https://as2.ftcdn.net/v2/jpg/05/19/92/91/1000_F_519929167_t4xSYAm3UnOB9xl64kNFqfjM2wGhoLVs.jpg" width="900" height="200"/>
+
 # 💫 About Me:
 👋 Hi, I’m Mike TETEGAN-BENISSAN<br>👀 I’m passionate about Cloud and DevOps and looking to expand my knowledge in the field.<br>📚 I hold AZ-104, AZ-700, KCNA certifications and currently learning to get the CKA<br>👯 Excited to expand my network and work together on new projects <br>📫 Feel free to reach out to me on my email: miketeteganbenissan@gmail.com 
 <!--[here](mailto:miketeteganbenissan@gmail.com)-->
