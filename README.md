@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=miketetegan&theme=tokyonight=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=miketetegan&theme=elegant=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miketetegan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miketetegan&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
