@@ -10,30 +10,21 @@
 miketetegan/miketetegan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# Mike's GitHub Presentation
-
-## *Introduction*
-Hello and welcome to my GitHub! My name is Mike and I'm excited to share with you a bit about myself, my journey in the world of IT, and what I'm currently learning and working on.
-
-## *About Me*
-**Experience:** I have 2 years of experience in IT administering computer and network systems.</p>
-**Certifications:** </br>
-- GitHub Foundations
-- Certified Kubernetes and Cloud Native Associate (KCNA)
-- Certified Kubernetes Administrator (CKA)
-- Cisco CCNA 200-301
-- Cisco CCNP Enterprise Core 350-401
-- Fortinet Certified Professionnal Public Cloud Security
-- AZ-104 Azure Administrator Associate
-- AZ-700 Azure Network Engineer Associate
-- Nokia Network Routing Specialist I and II </p>
-
-**Interests:** I am passionate about exploring the intersection of technology, particularly in the areas of DevOps and Cloud computing.</p>
-**Contact:** Feel free to reach out to me via email at miketeteganbenissan@gmail.com
-
-## *Current Focus*
-Currently, my primary focus is on expanding my knowledge and skills in DevOps and Cloud computing. These are rapidly evolving areas within the IT landscape, and I am excited to delve deeper into them.</p>
+# 💫 About Me:
+👋 Hi, I’m Mike TETEGAN-BENISSAN<br>👀 I’m passionate about Cloud and DevOps. <br>👯 Excited to expand my network and work together on new projects <br>📫 Feel free to reach out to me : [here](miketeteganbenissan@gmail.com)
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miketetegan/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/miketetegan) 
 
+# 💻 Tech Stack: 
+![Azure Cloud](https://img.shields.io/badge/Azure%20Cloud-0078D4?style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-FFCA33?logo=jenkins&logoColor=black&style=for-the-badge) ![Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge
+) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=miketetegan&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=miketetegan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miketetegan&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
