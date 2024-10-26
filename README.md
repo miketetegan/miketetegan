@@ -11,7 +11,7 @@ miketetegan/miketetegan is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# ✨& About Me:
+# ✨ About Me:
 👋 Hi, I’m Mike TETEGAN-BENISSAN<br>
 👀 I’m passionate about Cloud and DevOps and looking to expand my knowledge in the field.<br>
 📚 I hold AZ-104, AZ-700, KCNA certifications and currently learning to get the CKA<br>
