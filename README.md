@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 📫 Feel free to reach out to me on my email: miketeteganbenissan@gmail.com
 <!--[here](mailto:miketeteganbenissan@gmail.com)-->
 
-![Google](https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png =250x250)
+![](https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png | width=100)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miketetegan/)<br> [![X](https://img.shields.io/badge/X-Follow%20me-brightblue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/miketetegan) 
