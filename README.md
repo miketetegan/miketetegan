@@ -34,9 +34,9 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miketetegan/)<br> [![X](https://img.shields.io/badge/X-Follow%20me-brightblue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/miketetegan) 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=miketetegan&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=miketetegan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miketetegan&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=miketetegan&theme=light&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=miketetegan&theme=light&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miketetegan&theme=light&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
