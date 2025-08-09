@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📚 Certifications:
 <p float="left">
-    <img src="https://images.credly.com/images/9d60e52c-ae7b-4d2a-9939-115589dc91fd/image.png" alt="FCP" width="110" height="110">
+    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="FCP" width="110" height="110">
     <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/twitter_thumb_201604_azure-administrator-associate-600x600.png" alt="AZ-104" width="120" height="120">
     <img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png" alt="GCP ACE" width="120" height="120">
     <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="120" height="120">
